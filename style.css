@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kosugi Maru:wght@400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
 
 * {
     padding: 0;
@@ -15,8 +15,13 @@ body {
     sans-serif; 
 }
 
+p {
+    font-family: Schoolbell;
+    color: #F4F4ED;
+}
+
 h1 {
-    font-family: Comfortaa;
+    font-family: Schoolbell;
     color: #F4F4ED;
     font-size: calc(2vw + 1vh);
 }
